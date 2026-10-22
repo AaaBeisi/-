@@ -63,7 +63,3 @@
 ## 📝 日志
 
 运行日志保存在脚本同目录的 `wechat-guard.log`，可通过托盘菜单打开。
-
-## 📄 License
-
-MIT
